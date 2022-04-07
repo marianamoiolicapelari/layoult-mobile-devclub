@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  position: absolute;
+  margin: 128px 277px 12px 16px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 41px;
+  color: #000000;
+}
+
+.access-data {
+  position: absolute;
+  margin: 181px 16px 579px 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.input-email {
+  position: absolute;
+  margin: 335px 16px 12px;
+  width: 343px;
+  height: 48px;
+  background: #f0f0f0;
+  border-radius: 6px;
+  border: none;
+}
+
+.input-password {
+  position: absolute;
+  margin: 395px 16px 59px;
+  width: 343px;
+  height: 48px;
+  background: #f0f0f0;
+  border-radius: 6px;
+  border: none;
+}
+
+input::placeholder {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  font-size: 16px;
+  padding-left: 20px;
+  color: #929292;
+}
+
+.forgot-password {
+  position: absolute;
+  margin: 460px 16px 330px 230px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #007AFF;
+}
+
+.button {
+  position: absolute;
+  width: 343px;
+  height: 48px;
+  margin: 502px 16px 262px;
+  background: rgba(0, 0, 0, 0.94);
+  border-radius: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+
+.sign-up {
+  position: absolute;
+  margin: 754px 75px 39px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgba(0, 0, 0, 0.51);
+}
+
+span {
+  color: #007AFF;
+}
+
