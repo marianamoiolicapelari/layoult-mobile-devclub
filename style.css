@@ -68,7 +68,7 @@ input::placeholder {
   position: absolute;
   width: 343px;
   height: 48px;
-  margin: 502px 16px 262px;
+  margin: 502px 16px 262px 16px;
   background: rgba(0, 0, 0, 0.94);
   border-radius: 10px;
   font-style: normal;
@@ -79,7 +79,7 @@ input::placeholder {
 
 .sign-up {
   position: absolute;
-  margin: 754px 75px 39px;
+  margin: 754px 75px 39px 75px;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
